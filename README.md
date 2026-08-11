@@ -12,9 +12,6 @@ in the Wasserstein-2 distance, computed with the [POT](https://pythonot.github.i
 - `1d/` — one-dimensional experiments (notebooks) and supporting source (`1d/src/`)
 - `2d/` — two-dimensional experiments (notebooks) and supporting source (`2d/src/`),
   including a Navier–Stokes advection case
-- `data/` — reference particle solutions computed using a very fine time step, used 
-  by notebooks in the `log-log/` folder 
-- `log-log/` — log-log error vs. time step size plots
 - `environment.yml` — conda environment specification
 
 Each `src/` directory contains:
