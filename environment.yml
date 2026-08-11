@@ -1,0 +1,13 @@
+name: random-blob-methods
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.11
+  - numpy
+  - scipy
+  - matplotlib
+  - pot                 # Python Optimal Transport library; imported in the notebooks as `ot`
+  - jupyter
+  - ipykernel           # lets VS Code's Jupyter extension find/register this environment as a kernel
+  - texlive-core        # required for matplotlib's usetex=True, used throughout for plot labels/titles
