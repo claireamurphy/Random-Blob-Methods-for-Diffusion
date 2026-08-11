@@ -1,0 +1,28 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "Random Blob Methods for Diffusion"
+type: software
+authors:
+  - family-names: "Craig"
+    given-names: "Katy"
+  - family-names: "Murphy"
+    given-names: "Claire"
+repository-code: "https://github.com/claireamurphy/Random-Blob-Methods-for-Diffusion"
+url: "https://github.com/claireamurphy/Random-Blob-Methods-for-Diffusion"
+license: MIT
+version: 1.0.0
+date-released: "2026-08-10"
+
+# Once the paper is posted, add a preferred-citation block here, e.g.:
+#
+# preferred-citation:
+#   type: article
+#   title: "Blob Methods for Diffusion"
+#   authors:
+#     - family-names: "Craig"
+#       given-names: "Katy"
+#     - family-names: "Murphy"
+#       given-names: "Claire A."
+#   journal: "arXiv preprint"
+#   year: 2026
+#   url: "https://arxiv.org/abs/XXXX.XXXXX"
