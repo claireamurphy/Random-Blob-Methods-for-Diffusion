@@ -13,16 +13,14 @@ license: MIT
 version: 1.0.0
 date-released: "2026-08-10"
 
-# Once the paper is posted, add a preferred-citation block here, e.g.:
-#
-# preferred-citation:
-#   type: article
-#   title: "Blob Methods for Diffusion"
-#   authors:
-#     - family-names: "Craig"
-#       given-names: "Katy"
-#     - family-names: "Murphy"
-#       given-names: "Claire A."
-#   journal: "arXiv preprint"
-#   year: 2026
-#   url: "https://arxiv.org/abs/XXXX.XXXXX"
+preferred-citation:
+  type: article
+  title: "Blob Methods for Diffusion"
+  authors:
+    - family-names: "Craig"
+      given-names: "Katy"
+    - family-names: "Murphy"
+      given-names: "Claire"
+  journal: "arXiv preprint"
+  year: 2026
+  url: https://arxiv.org/abs/2608.14914
