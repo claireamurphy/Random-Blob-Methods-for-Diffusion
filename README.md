@@ -42,6 +42,15 @@ Each notebook is organized into `Configuration`, `Function Definitions`, `Plot`,
 
 ## Citation
 
-A preprint is forthcoming; citation details will be added here once available.
-In the meantime, please cite this repository directly (see "Cite this repository" 
-in the sidebar, or use the URL above).
+If you use this code, please cite the paper:
+
+```bibtex
+@misc{craig2026blob,
+      title={Blob Methods for Diffusion}, 
+      author={Katy Craig and Claire Murphy},
+      year={2026},
+      eprint={2608.14914},
+      archivePrefix={arXiv},
+      primaryClass={math.AP}
+}
+```
